@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20170706212122_add_permissions_to_lists.rb
