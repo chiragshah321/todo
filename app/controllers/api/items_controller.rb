@@ -23,9 +23,6 @@ class Api::ItemsController < ApiController
     
   end
 
-  
-  
-  
   private
   
   def item_params
